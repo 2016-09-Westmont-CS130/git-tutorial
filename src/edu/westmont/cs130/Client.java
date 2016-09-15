@@ -40,6 +40,7 @@ public class Client {
 	}
 	
 	public static void main(String[] args){
-		new Client(“Mark Carlson“, 8888);
+		new Client("192.168.1.97", 8888);
+		System.out.println(“Mark Carlson”);
 	}
 }
