@@ -47,7 +47,7 @@ public class Client {
 		System.out.println("Jon Skidanov is here");
 		System.out.println("This is Jacob Ochs");
 		System.out.println("Mark Carlson");
+		System.out.println("Bethany was here :)");
 		new Client("192.168.1.97", 8888);
-
 	}
 }
