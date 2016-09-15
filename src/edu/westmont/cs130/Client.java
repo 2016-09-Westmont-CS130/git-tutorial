@@ -41,6 +41,7 @@ public class Client {
 	
 	public static void main(String[] args){
 		System.out.println("Prof. Patterson");
+		System.out.println("Hi this is James Solum");
 		new Client("192.168.1.97", 8888);
 	}
 }
