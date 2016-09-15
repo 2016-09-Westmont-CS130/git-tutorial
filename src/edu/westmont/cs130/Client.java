@@ -41,5 +41,6 @@ public class Client {
 	
 	public static void main(String[] args){
 		new Client("192.168.1.97", 8888);
+		println("Bethany was here :)")
 	}
 }
