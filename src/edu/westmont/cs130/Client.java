@@ -7,7 +7,6 @@ import java.net.UnknownHostException;
 
 public class Client {
 	
-	
 	public Client(String destinationIP, int destinationPort){
 		Socket s = null;
 		PrintWriter out;
@@ -44,6 +43,8 @@ public class Client {
 		System.out.println("Hi this is James Solum");
 		System.out.println("Hi this is Caleb Armacost");
    		System.out.println("Bryan Miner");
+		System.out.println("Matthew Coffman");
+		System.out.println("Jon Skidanov is here");
 		new Client("192.168.1.97", 8888);
 	}
 }
