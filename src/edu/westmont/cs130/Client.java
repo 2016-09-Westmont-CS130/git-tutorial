@@ -1,4 +1,4 @@
-package edu.westmont.cs130;
+﻿package edu.westmont.cs130;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -45,6 +45,9 @@ public class Client {
    		System.out.println("Bryan Miner");
 		System.out.println("Matthew Coffman");
 		System.out.println("Jon Skidanov is here");
+		System.out.println("This is Jacob Ochs");
+		System.out.println("Mark Carlson");
 		new Client("192.168.1.97", 8888);
+
 	}
 }
